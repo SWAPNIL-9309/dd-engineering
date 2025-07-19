@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
  
-  base:'/DDE/',
+  base:'/dd-engineering/',
   plugins: [react()  , 
     tailwindcss()  ,],
 })

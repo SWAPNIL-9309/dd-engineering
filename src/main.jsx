@@ -8,7 +8,7 @@ import './index.css'; // or './App.css'
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     
-     <BrowserRouter basename="/DDE"> {/* 👈 Add this line */}
+     <BrowserRouter basename="/dd-engineering"> {/* 👈 Add this line */}
       <App />
     </BrowserRouter>
     

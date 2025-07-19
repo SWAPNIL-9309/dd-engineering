@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://swapnil-9309.github.io/DDE/",
+  "homepage": "https://swapnil-9309.github.io/dd-engineering/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
